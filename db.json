@@ -1,0 +1,17 @@
+{
+  "usuarios": [
+    {
+      "nome": "taw-ham javascript",
+      "idade": "20",
+      "cpf": "51212378999",
+      "id": 1
+    },
+    {
+      "nome": "ricardo",
+      "idade": "22",
+      "cpf": "12345678999",
+      "id": 2
+    }
+  ],
+  "mensagens": []
+}
